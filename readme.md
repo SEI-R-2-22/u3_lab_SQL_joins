@@ -22,6 +22,10 @@ Build a database representing **www.TheGersh.com's** apartment buildings. These 
 
 Part 1 - 5
 
+## Submission
+
+Homework is due tonight by **11pm**. Follow the [Homework Guide](https://git.generalassemb.ly/nyc-wdi-fisher/student-resources/blob/master/homework-guide.md) for instructions.
+
 ## Assignment
 
 #### Part 1 - ERD
