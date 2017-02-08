@@ -1,0 +1,1 @@
+-- Answers for apartment query section go here

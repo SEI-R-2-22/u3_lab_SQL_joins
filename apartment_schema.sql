@@ -1,0 +1,1 @@
+-- Apartment schema goes here
