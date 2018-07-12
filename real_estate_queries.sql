@@ -1,7 +1,7 @@
---Retrieve all info on all tenants
+--Retrieve all info on the first 10 tenants (HINT: Use LIMIT)
 
 
---Retrieve the name, age, and gender of all tenants
+--Retrieve the name, age, and gender of the first 10 tenants
 
 
 --Retrieve all info on all tenants older than 65
@@ -25,6 +25,11 @@
 --Create one new tenant, put them in any apartment you want
 
 
+
+
+--BONUS!! You are highly encouraged to complete these 🙂
+
+
 --Find just the ids for all apartments for building with id of 2
 
 
@@ -32,6 +37,3 @@
 
 
 --Geriatric Birthday! Update all tenants whose age is 90 to be 91
-
-
---Change all tenants ages to increase by 1
