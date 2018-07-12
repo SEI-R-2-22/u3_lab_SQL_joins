@@ -16,13 +16,14 @@ representing some of the apartment buildings on _Gersh.com_. Before getting star
 
 Fork this repo and clone it locally. `cd` into the newly created directory to get started
 
-### Part 1- Make database
+### Part 2- Create database and run schema
 
-Create a database called `real_estate_db`
+Run the `schema.sql` file using `psql -f schema.sql`. This will create your database and set up the schema
 
-### Part 2- Populate database
+### Part 3 - Populate database
 
-Run the `seed.sql` file using `psql -f seed.sql` to insert the records into the database. You **do not** need to edit the seed file! It has been set up for you.
+Run the `seed.sql` file `psql -f seed.sql` to insert the records into the database. You **do not** need to edit the seed file! It has been set up for you.
+
 
 ## Assignment- Queries
 
@@ -36,6 +37,8 @@ Write queries to do the following:
 - Retrieve the names of all doormen and the address where they work
 - Delete all tenants whose age is greater than 65
 - Change all doormen from building 3 to work night shifts.
+
+### BONUS!!
 - Create one new tenant, put them in any apartment you want
 - Find just the ids for all apartments for building with id of 2
 - Find all info for apartments in building number 3 whose price is greater than $2300
