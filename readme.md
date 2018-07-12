@@ -22,7 +22,7 @@ Run the `schema.sql` file using `psql -f schema.sql`. This will create your data
 
 ### Part 2 - Populate database
 
-Run the `seed.sql` file `psql -f seed.sql` to insert the records into the database. You **do not** need to edit the seed file! It has been set up for you.
+Run the `seed.sql` file using `psql -f seed.sql` to insert the records into the database. You **do not** need to edit the seed file! It has been set up for you.
 
 
 ## Assignment- Queries
