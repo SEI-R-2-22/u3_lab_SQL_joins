@@ -20,7 +20,7 @@ Fork this repo and clone it locally. `cd` into the newly created directory to ge
 
 Create a database called `real_estate_db`
 
-### Part 2- Populate `real_estate_db`
+### Part 2- Populate database
 
 Run the `seed.sql` file using `psql -f seed.sql` to insert the records into the database. You **do not** need to edit the seed file! It has been set up for you.
 
