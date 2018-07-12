@@ -28,7 +28,7 @@ The database is named `real_estate_db`. Connect to it in psql to test your querr
 
 ## Assignment- Queries
 
-Write queries to do the following:
+In the `real_estate_queries.sql` file, write queries to do the following:
 
 - Retrieve all info on the first 10 tenants (Hint: use LIMIT)
 - Retrieve the name, age, and gender of the first 10 tenants
