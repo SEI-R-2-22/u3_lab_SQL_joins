@@ -16,11 +16,11 @@ representing some of the apartment buildings on _Gersh.com_. Before getting star
 
 Fork this repo and clone it locally. `cd` into the newly created directory to get started
 
-### Part 2- Create database and run schema
+### Part 1- Create database and run schema
 
 Run the `schema.sql` file using `psql -f schema.sql`. This will create your database and set up the schema
 
-### Part 3 - Populate database
+### Part 2 - Populate database
 
 Run the `seed.sql` file `psql -f seed.sql` to insert the records into the database. You **do not** need to edit the seed file! It has been set up for you.
 
