@@ -1,3 +1,5 @@
+\c real_estate_db;
+
 TRUNCATE TABLE buildings CASCADE;
 TRUNCATE TABLE doormen CASCADE;
 TRUNCATE TABLE apartments CASCADE;
