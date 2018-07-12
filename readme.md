@@ -1,6 +1,4 @@
-![The Gersh](max-real-estate.png)
-
-# Real Estate Fun with Max!
+# Real Estate Fun with Joins!
 
 Guess who's back?? You guessed it, it's Mad Max! and now our favorite former evening TA is looking to throw his hat into the real estate game!
 
