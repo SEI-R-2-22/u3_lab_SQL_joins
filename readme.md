@@ -46,7 +46,3 @@ In the `real_estate_queries.sql` file, write queries to do the following:
 - Geriatric Birthday! Update all tenants whose age is 90 to be 91
 
 **NOTE:** The `real_estate_queries.sql` file already has the questions inside (commented out) with a line for you to write your queries.
-
-## Submission
-
-Homework is due tonight by **11pm**. Look at the [homework submission templete](https://git.generalassemb.ly/wdi-nyc-lambda/lambda-class-info/blob/master/SAMPLE_HW_TEMPLATE.md) if you need a refrehser. Make sure to title your PR with your name.
