@@ -1,4 +1,11 @@
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  WEB DEVELOPMENT IMMERSIVE
+
 # Real Estate Fun with Joins!
+
+1. Fork
+1. Feature
+1. Clone
+1. PR
 
 ## Setup
 
@@ -11,10 +18,6 @@ You have been given a schema file and a seed file that will be used to build a r
 
 
 representing some of the apartment buildings on _Gersh.com_. Before getting started, take some time to go through the schema file to understand what fields, data types each table requires and how the tables are related. This is **important!**
-
-### Part 0- Fork and clone
-
-Fork this repo and clone it locally. `cd` into the newly created directory to get started
 
 ### Part 1- Create database and run schema
 
