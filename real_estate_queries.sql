@@ -25,11 +25,6 @@
 --Create one new tenant, put them in any apartment you want
 
 
-
-
---BONUS!! You are highly encouraged to complete these 🙂
-
-
 --Find just the ids for all apartments for building with id of 2
 
 
