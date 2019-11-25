@@ -3,7 +3,6 @@
 # Real Estate Fun with Joins!
 
 1. Fork
-1. Feature
 1. Clone
 1. PR
 
