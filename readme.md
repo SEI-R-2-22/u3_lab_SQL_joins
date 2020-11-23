@@ -45,4 +45,4 @@ In the `real_estate_queries.sql` file, write queries to do the following:
 - Find all info for apartments in building number 3 whose price is greater than $2300
 - Geriatric Birthday! Update all tenants whose age is 90 to be 91
 
-**NOTE:** The `real_estate_queries.sql` file already has the questions inside (commented out) with a line for you to write your queries.
+**NOTE:** The `real_estate_queries.sql` file already has the questions inside (commented out) with a line for you to write your queries. You can run `psql -d real_estate_db -f real_estate_queries.sql` to run your queries, comment out the prior queries so they don't run again once completed. `q` to exit the prompt.
