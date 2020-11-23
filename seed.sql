@@ -2065,7 +2065,7 @@ INSERT INTO apartments (id, floor, name, price, sqft, bedrooms, bathrooms, build
 INSERT INTO apartments (id, floor, name, price, sqft, bedrooms, bathrooms, building_id) VALUES (DEFAULT, 1, '142', 1800, 1100, 2, 2, 10);
 INSERT INTO apartments (id, floor, name, price, sqft, bedrooms, bathrooms, building_id) VALUES (DEFAULT, 5, '547', 1400, 200, 3, 3, 10);
 INSERT INTO apartments (id, floor, name, price, sqft, bedrooms, bathrooms, building_id) VALUES (DEFAULT, 5, '590', 300, 400, 3, 2, 10);
-INSERT INTO tenants (id, name, age, gender, apartment_id) VALUES (DEFAULT, 'Adele Feil II', 89, 'Male', 1);
+INSERT INTO tenants (id, name, age, gender, apartment_id) VALUES (DEFAULT, 'Adele Feil II', 90, 'Male', 1);
 INSERT INTO tenants (id, name, age, gender, apartment_id) VALUES (DEFAULT, 'Tressie Wolf', 74, 'Female', 1);
 INSERT INTO tenants (id, name, age, gender, apartment_id) VALUES (DEFAULT, 'Toney Mohr', 76, 'Male', 2);
 INSERT INTO tenants (id, name, age, gender, apartment_id) VALUES (DEFAULT, 'Marcelle Block', 48, 'Male', 3);
