@@ -15,7 +15,6 @@ CREATE TABLE buildings (
     address VARCHAR(255) NOT NULL, 
     num_floors INTEGER NOT NULL
 );
-
 CREATE TABLE doormen (
     id SERIAL PRIMARY KEY NOT NULL,
     name VARCHAR(255) NOT NULL,
@@ -23,7 +22,6 @@ CREATE TABLE doormen (
     shift VARCHAR(255) NOT NULL,
     building_id INTEGER REFERENCES buildings(id)
 );
-
 CREATE TABLE apartments (
     id SERIAL PRIMARY KEY NOT NULL,
     floor INTEGER NOT NULL, 
@@ -34,7 +32,6 @@ CREATE TABLE apartments (
     bathrooms INTEGER NOT NULL, 
     building_id INTEGER REFERENCES buildings(id)
 );
-
 CREATE TABLE tenants (
     id SERIAL PRIMARY KEY NOT NULL,
     name VARCHAR(255) NOT NULL, 
